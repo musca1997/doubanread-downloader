@@ -16,7 +16,7 @@ pip install selenium
 
 pip install requests (if you want to add the cookie thingy)
 
-##usage
+## usage
 
 edit `.py` file and put the book link in it
 
