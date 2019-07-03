@@ -1,5 +1,9 @@
 # doubanread-downloader
 
+![](https://cdn.discordapp.com/attachments/447635828496138241/595971562729898032/unknown.png)
+
+the image result is in /saved directory
+
 ## reclamation
 1. it's only a demo so if you wanna download books under your account you need to add the cookie part.
 
